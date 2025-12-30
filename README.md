@@ -40,15 +40,9 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 Coding Streak
 <div align="center">
-
-[![Mehak's Stats](https://github-readme-stats.vercel.app/api?username=Mehak-Mehtab01&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/Mehak-Mehtab01)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehak-Mehtab01&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Mehak-Mehtab01)
-
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Mehak-Mehtab01&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehak-Mehtab01&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
 </div>
 
 ---
