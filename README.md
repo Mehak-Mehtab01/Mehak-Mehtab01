@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Mehak%20Mehtab&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Mehak%20Mehtab&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist&descAlignY=70&descAlign=62" width="100%"/>
 </div>
 
 <h1 align="center">Hi there, I'm Mehak! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
@@ -42,13 +42,13 @@
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehak-Mehtab01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehak-Mehtab01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="languages" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehak-Mehtab01&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Mehak-Mehtab01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Mehak's Stats" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehak-Mehtab01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehak-Mehtab01&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
+  </p>
 </div>
 
 ---
